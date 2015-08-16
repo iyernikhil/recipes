@@ -1,0 +1,9 @@
+Ingredients:
+ - pizza base
+ - pizza pasta sauce
+ - vegetables
+ - cheese
+
+Directions:
+  1. Spread sauce, mix vegetables and grate cheese.
+  2. Heat in an oven for roughly 5 minutes.
